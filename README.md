@@ -9,4 +9,6 @@
   * https://www.mankier.com/1/tint2
 
 ## Instruction
+  * wget raw file to terminal
   * Copy tint2rc to ~./config/tint2 
+
