@@ -8,4 +8,4 @@
   * https://wiki.archlinux.org/index.php/tint2
 
 ## Instruction
-  * Copy to ~./config/tint2 
+  * Copy tint2rc to ~./config/tint2 
