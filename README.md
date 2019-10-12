@@ -1,7 +1,7 @@
 
 # tint2_config
 
-  * Simple Tint2 for OpenBOx
+  * Simple Tint2 for OpenBox
 
 ## Tint2 Documentation
   
@@ -12,3 +12,6 @@
   * wget raw file to terminal
   * Copy tint2rc to ~./config/tint2 
 
+## Revision
+  * Clone tint2 from https://github.com/adi1090x/my_dotfiles/tree/master/.config/tint2
+  
